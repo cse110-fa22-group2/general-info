@@ -4,10 +4,10 @@
 ## [*Team Status Video 1*](https://youtu.be/tpCWZWzKOt8)
 
 ## **Brand:**
-[![Avatar](./images/d_logo.png#avatar)](https://youtu.be/tpCWZWzKOt8 "Redirect to team status vid, which talks about our site.")
-
 ### **Logo:**
-[![image](./images/THEPIZZAPARTY.png#avatar)](https://youtu.be/iMRoQklh57Q "Redirect to team intro vid, which introduces the team members.")
+**Brand**             |  **Logo**
+:-------------------------:|:-------------------------:
+[![Avatar](./images/d_logo.png#avatar)](https://youtu.be/tpCWZWzKOt8 "Go to team status video, in which we talk about our site!") |  [![image](./images/THEPIZZAPARTY.png#avatar)](https://youtu.be/iMRoQklh57Q "Go to team intro video, in which wew introduce ourselves!")
 
 
 ### **Slogan:**
@@ -130,12 +130,14 @@
 - likes table tennis and Overwatch
 
 
-<!-- make logo pictures round -->
+<!-- make logo pictures round and same size-->
 <style>
     img[src$="#avatar"] {
-    display: block;
-    margin: 0 auto;
-    border-radius: 50%;
-    max-width: 50%;
+        display: block;
+        margin: 0 auto;
+        border-radius: 50%;
+        
+        width:  200px;
+        height: 200px;
     }
 </style>
