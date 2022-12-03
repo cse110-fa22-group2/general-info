@@ -1,14 +1,13 @@
+<link href="style.css" rel="stylesheet"></link>
+
 # The Pizza Party
 ## [*Team Intro*](https://youtu.be/iMRoQklh57Q)
 
 ## [*Team Status Video 1*](https://youtu.be/tpCWZWzKOt8)
 
-## **Brand:**
-### **Logo:**
 **Brand**             |  **Logo**
 :-------------------------:|:-------------------------:
 [![Avatar](./images/d_logo.png#avatar)](https://youtu.be/tpCWZWzKOt8 "Go to team status video, in which we talk about our site!") |  [![image](./images/THEPIZZAPARTY.png#avatar)](https://youtu.be/iMRoQklh57Q "Go to team intro video, in which wew introduce ourselves!")
-
 
 ### **Slogan:**
 > [*Pizza Time*](https://www.youtube.com/watch?v=TRgdA9_FsXM)
@@ -130,14 +129,3 @@
 - likes table tennis and Overwatch
 
 
-<!-- make logo pictures round and same size-->
-<style>
-    img[src$="#avatar"] {
-        display: block;
-        margin: 0 auto;
-        border-radius: 50%;
-        
-        width:  200px;
-        height: 200px;
-    }
-</style>

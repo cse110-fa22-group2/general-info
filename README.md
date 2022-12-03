@@ -1,3 +1,5 @@
+<link href="admin/style.css" rel="stylesheet"></link>
+
 # 🍕 **The Pizza Party** 🍕
 ### **CSE 110 Team 2**
 
@@ -40,14 +42,3 @@ Amaar Valliani
 
 Andrew Jia
 
-<!-- make logo pictures round and same size-->
-<style>
-    img[src$="#avatar"] {
-        display: block;
-        margin: 0 auto;
-        border-radius: 50%;
-        
-        width:  200px;
-        height: 200px;
-    }
-</style>
